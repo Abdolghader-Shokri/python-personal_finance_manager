@@ -61,8 +61,8 @@ personal_finance_manager/
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/personal-finance-manager.git
-cd personal-finance-manager
+git clone https://github.com/Abdolghader-Shokri/python-personal_finance_manager.git
+cd python-personal_finance_manager
 ```
 
 Create and activate a virtual environment (optional but recommended):
